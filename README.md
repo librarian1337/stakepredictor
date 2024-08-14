@@ -2,7 +2,7 @@
 
 [+] It is a tool which have :
 --> Mines predictor
-\n--> Crash predictor
+--> Crash predictor
 --> Slides predictor
 --> DragonTower predictor
 --> BlackJack predictor
